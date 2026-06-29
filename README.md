@@ -1,1 +1,1 @@
-this is assignment 2
+ALL assignments of DBMS course
